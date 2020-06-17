@@ -1,0 +1,5 @@
+.idea
+__pycache__
+retail_data_pipeline_env
+postgres_validation.py
+mysql_validation.py
